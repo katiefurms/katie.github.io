@@ -14,5 +14,5 @@ I grew up in central New Jersey, and received my B.S. in Neural Science from New
 
 
 <div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+    {% twitter https://twitter.com/FurmanK8 maxwidth=500 limit=5 %}
 </div>
