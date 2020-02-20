@@ -16,7 +16,10 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /katiefurms.github.io/files/K-Furman_CV.pdf
+    url: /files/K-Furman_CV.pdf
+    
+ #- title: "CV"
+ #   url: /katiefurms.github.io/files/K-Furman_CV.pdf
     
  # - title: "Guide"
  #   url: /markdown/
