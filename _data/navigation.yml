@@ -1,10 +1,6 @@
 # main links links
 main:
-  - title: "Academics"
-    url: /academics/
-
-  - title: "Presentations"
-    url: /talks/    
+   
 
  # - title: "Teaching"
  #   url: /teaching/    
@@ -18,8 +14,14 @@ main:
   - title: "CV"
     url: /files/K-Furman_CV.pdf
     
- #- title: "CV"
- #   url: /katiefurms.github.io/files/K-Furman_CV.pdf
+  - title: "Academics"
+    url: /academics/
+
+  - title: "Presentations"
+    url: /talks/ 
+    
+  - title: "GUIS"
+    url: /guis/ 
     
  # - title: "Guide"
  #   url: /markdown/
