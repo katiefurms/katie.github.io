@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Growing Up In Science"
+title: "Outreach"
 permalink: /outreach/
 author_profile: true
 ---
