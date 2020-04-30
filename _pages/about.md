@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Katherine L. Furman"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
