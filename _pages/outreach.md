@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Growing Up In Science"
-permalink: /guis/
+permalink: /outreach/
 author_profile: true
 ---
 
