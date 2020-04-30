@@ -13,12 +13,15 @@ main:
     
   - title: "CV"
     url: /files/K-Furman_CV.pdf
+  
+  - title: "Outreach"
+    url: /outreach/
     
-  - title: "Academics"
-    url: /academics/
+  # title: "Academics"
+  #  url: /academics/
 
-  - title: "Presentations"
-    url: /talks/ 
+  # title: "Presentations"
+  #  url: /talks/ 
     
   - title: "GUIS"
     url: /guis/ 
